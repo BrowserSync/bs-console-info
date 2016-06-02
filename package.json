@@ -1,0 +1,22 @@
+{
+  "name": "bs-console-info",
+  "version": "1.0.2",
+  "description": "Display access URLs in the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "client.js",
+    "index.js",
+    "example.js"
+  ],
+  "author": "",
+  "keywords": [
+    "browser sync plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.10.0"
+  }
+}
